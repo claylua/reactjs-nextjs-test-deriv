@@ -1,1 +1,1 @@
-# reactjs-nextjs-test-deriv
+# reactjs-nextjs-test-deriv - interesting exercise for a pre-interview
