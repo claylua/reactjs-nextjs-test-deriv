@@ -154,7 +154,7 @@ const IndexPage: FC = () => {
   const columns = React.useMemo<ColumnDef<Row, any>[]>(
     () => [
       {
-        header: 'Group',
+        header: 'Clay Lua Deriv',
         footer: props => props.column.id,
         columns: [
           {
